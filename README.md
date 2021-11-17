@@ -27,7 +27,7 @@ dependencyResolutionManagement {
 - `app/build.gradle`
 
 ```groovy
-implementation 'com.github.prongbang:android-connectivity:1.0.0'
+implementation 'com.github.prongbang:android-connectivity:1.0.1'
 ```
 
 ## How to use
