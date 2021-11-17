@@ -1,5 +1,7 @@
 # android-connectivity
 
+Android Connectivity State on Android 10 and Above
+
 [![](https://jitpack.io/v/prongbang/android-connectivity.svg)](https://jitpack.io/#prongbang/android-connectivity)
 
 ## Setup
